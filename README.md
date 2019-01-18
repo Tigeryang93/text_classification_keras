@@ -1,5 +1,7 @@
 text classification with keras in rt-polaritydata.
 
+method	f1
+
 navie bayes	0.7645+
 
 FastText	0.7793+
